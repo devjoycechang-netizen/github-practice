@@ -7,3 +7,5 @@
 這是透過 VS Code 修改的內容。
 
 再一次修改
+
+Practice Git commands
